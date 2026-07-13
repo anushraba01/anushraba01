@@ -66,6 +66,21 @@ I'm a final-year engineering student who builds AI systems that leave the notebo
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anushraba01&theme=tokyo-night&bg_color=0D1117&color=00F5FF&line=7C3AED&point=F8FAFC&hide_border=true&area=true" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushraba01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=F8FAFC&border_radius=10" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushraba01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=F8FAFC&border_radius=10" width="48%"/>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
