@@ -158,9 +158,7 @@ A localized weather prediction system built for precision forecasting at a villa
 </tr>
 </table>
 
-<div align="center">
-<sub>Pinning these six on the profile is step 1 of the implementation guide below — see <b>Setup</b>.</sub>
-</div>
+
 
 ---
 
